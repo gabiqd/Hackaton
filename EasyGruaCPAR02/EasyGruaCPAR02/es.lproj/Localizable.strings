@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  EasyGruaCPAR02
+
+  Created by Gabriel Quispe Delgadillo on 26/4/18.
+  Copyright © 2018 Cielabs. All rights reserved.
+*/
+
+// FUICustomAuthPickerViewController
+"CAController.title" = "Bienvenido";
+"CAController.description" = "Todo lo que necesitás,\n al alcance de tu mano!";
+
+// FUICustomPasswordRecoveryViewController
+"CRPController.recover" = "Recuperar";
+"CRPController.back" = "Volver";
+"CRPController.title" =  "Recupero Contraseña";
+"CRPController.description" = "Ingrese su email:";
+"CRPController.email-placeholder" = "E-mail";
+
+// FUICustomPasswordVerificationViewController
+"CPSUController.title" = "Registrarse";
+"CPSUController.description" = "Ingrese los datos";
+"CPSUController.name" = "Nombre Completo";
+"CPSUController.email-placeholder" = "E-mail";
+"CPSUController.password-placeholder" = "Password";
+"CPSUController.register" = "Crear cuenta";
+"CPSUController.change-email" = "Cambiar email";
+"CPSUController.terms-cond-disclaimer" = "Al continuar indica que esta de acuerdo con los Terminos y Condiciones del servicio";
+
+// FUICustomPasswordSignInViewController
+"CPSIController.title" = "Iniciar sesión";
+"CPSIController.description" = "";
+"CPSIController.change-email" = "Cambiar email";
+"CPSIController.login" = "Ingresar";
+"CPSIController.email-placeholder" = "E-mail";
+"CPSIController.password-placeholder" = "Password";
+"CPSIController.forgotPassword" = "Olvidé la contraseña";
+
+// FUICustomEmailEntryViewController
+"CEEController.title" = "Bienvenido";
+"CEEController.description" = "Ingrese su email:";
+"CEEController.back" = "Atrás";
+"CEEController.next" = "Siguiente";
+"CEEController.email-placeholder" = "E-mail";
+
+// MainTabBarViewController
+"MTBVController.home" = "Inicio";
+"MTBVController.budget" = "Presupuestos";
+"MTBVController.jobs" = "Trabajos";
+"MTBVController.profile" = "Perfil";
+
+// PerfilViewController
+"PfileController.ask-review" = "Reseña la app";
+"PfileController.log-out" = "Cerrar Sesión";

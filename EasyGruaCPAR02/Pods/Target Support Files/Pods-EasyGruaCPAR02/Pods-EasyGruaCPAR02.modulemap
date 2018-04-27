@@ -1,0 +1,6 @@
+framework module Pods_EasyGruaCPAR02 {
+  umbrella header "Pods-EasyGruaCPAR02-umbrella.h"
+
+  export *
+  module * { export * }
+}
